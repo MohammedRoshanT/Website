@@ -9,7 +9,7 @@ function Type() {
           "Web Developer",
           "Network Engineer",
           "Open Source Contributor",
-          "Security Engineer",
+          
         ],
         autoStart: true,
         loop: true,
