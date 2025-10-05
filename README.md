@@ -67,7 +67,7 @@ perwebo/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mohammedroshant/perwebo.git
+   git clone https://github.com/mohammedroshant/website.git
    cd perwebo
    ```
 
@@ -96,7 +96,6 @@ perwebo/
 ### **Personal Information**
 - Update name, title, and bio in `index.html`
 - Replace social media links with your profiles
-- Add your profile image to `assets/profile.jpg`
 
 ### **GitHub Integration**
 - Change the username in `script.js` (line 211)
@@ -169,8 +168,7 @@ This project is open source and available under the [MIT License](LICENSE).
 **Mohammed Roshan T**
 - GitHub: [@mohammedroshant](https://github.com/mohammedroshant)
 - LinkedIn: [Mohammed Roshan T](https://linkedin.com/in/mohammed-roshan-t)
-- Twitter: [@roshan_exe](https://twitter.com/roshan_exe)
-- Email: roshan.t.dev@email.com
+- Email: mr.roxhan@gmail.com
 
 ## 🙏 **Acknowledgments**
 
